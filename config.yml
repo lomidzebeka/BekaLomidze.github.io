@@ -1,5 +1,5 @@
 baseURL: "https://mathildecol.github.io"
-title: Mathilde Col
+title: Niclas Knecht
 paginate: 20
 theme: PaperMod
 
@@ -19,8 +19,8 @@ menu:
           weight: 2
 
 params:
-    description: "I am a PhD student at the Bordeaux School of Economics, under the supervision of Tanguy Bernard (BSE) and Denis Cogneau (PSE). I am interested in education in Africa, and especially the languages of instruction issue."
-    author: Mathilde Col
+    description: "I am a PhD student at the Bordeaux School of Economics under the supervision of Olivier Bargain. I am interested in the intersection of economics and psychology."
+    author: Niclas Knecht
     #googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: dark
@@ -43,12 +43,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title : Mathilde Col
-          subtitle: "I am a PhD student at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/), under the supervision of [Tanguy Bernard (BSE)](https://sites.google.com/view/tanguybernard/home) and [Denis Cogneau](https://www.parisschoolofeconomics.eu/fr/cogneau-denis/) (PSE). I am interested in education in Africa, and especially the languages of instruction issue."
+          title : Niclas Knecht
+          subtitle: "I am a PhD student at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) under the supervision of [Olivier Bargain](https://sites.google.com/site/bargainoliv/). I am interested in the intersection of economics and psychology."
           imageUrl: "/ID.jpg"
           imageWidth: 200
           imageHeight: 200
-          imageTitle: Mathilde Col
+          imageTitle: Niclas Knecht
           buttons:
             - name: Research
               url: /research/
@@ -56,15 +56,11 @@ params:
               url: /cv/Academic_CV_2023.pdf
     socialIcons:
         - name: Email
-          url: mailto:mathilde.col@gmail.com
-        - name: OrCID
-          url: https://orcid.org/0009-0005-3475-2969
-        - name : Twitter
-          url : https://twitter.com/colmathe
+          url: mailto:niclas.knecht@u-bordeaux.fr
         - name: LinkedIn
-          url: https://www.linkedin.com/in/mathilde-col/
-        - name: GitHub
-          url: https://github.com/colmate
+          url: https://www.linkedin.com/in/niclas-knecht/
+        #- name: GitHub
+        #  url: https://github.com/colmate
         - name: Location
           url: /location/
 
