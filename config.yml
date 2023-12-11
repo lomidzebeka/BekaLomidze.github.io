@@ -53,7 +53,7 @@ params:
             - name: Research
               url: /research/
             - name: CV
-              url: /cv/Academic_CV_2023.pdf
+              url: /cv/CV_NK_Autumn2023.pdf
     socialIcons:
         - name: Email
           url: mailto:niclas.knecht@u-bordeaux.fr
