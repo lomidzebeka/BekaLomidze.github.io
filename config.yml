@@ -45,7 +45,7 @@ params:
           enabled: true
           title : Niclas Knecht
           subtitle: "I am a PhD student at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) under the supervision of [Olivier Bargain](https://sites.google.com/site/bargainoliv/). I am interested in the intersection of economics and psychology."
-          imageUrl: "/ID.jpg"
+          imageUrl: "/picture.jpg"
           imageWidth: 200
           imageHeight: 200
           imageTitle: Niclas Knecht
