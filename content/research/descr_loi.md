@@ -1,8 +1,8 @@
 ---
-title: The supply side of bilingual education in Africa
-date: 2023-06-01
+title: Investigating the Mediating Effect of Emotion in the Determination of Trust
+date: 2023-12-01
 url: /descr_loi/
-author: ["Mathilde Col"]
+author: ["Niclas Knecht"]
 description: "" 
 summary: "Descriptive and comparative analysis of LoI (languages of instruction) policies"
 cover:
