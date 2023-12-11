@@ -9,14 +9,14 @@ enableRobotsTXT: true
 taxonomies:
     tag: tags
 
-menu:
-    main:
-        - name: Research
-          url: /research/
-          weight: 1
-        - name: CV
-          url: /cv/
-          weight: 2
+#menu:
+#    main:
+#        - name: Research
+#          url: /research/
+#          weight: 1
+#        - name: CV
+#          url: /cv/
+#          weight: 2
 
 params:
     description: "I am a PhD student at the Bordeaux School of Economics under the supervision of Olivier Bargain. I am interested in the intersection of economics and psychology."
