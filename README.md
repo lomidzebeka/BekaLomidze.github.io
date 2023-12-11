@@ -1,3 +1,3 @@
-# niclasknecht.github.io
+# Source Code and Assets of niclasknecht.github.io
 
-Personal website for Niclas Knecht.
+This repository contains the source code and assets of https://niclasknecht.github.io.
