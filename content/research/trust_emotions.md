@@ -2,7 +2,7 @@
 title: Investigating the Mediating Effect of Emotion in the Determination of Trust
 date: 2023-12-01
 url: /trust_emotions/
-author: ["Niclas Knecht"]
+author: ["Mael Astruc-Le Souder", "Olivier Bargain", "Niclas Knecht"]
 description: "" 
 summary: "Investigating the Mediating Effect of Emotion in the Determination of Trust"
 cover:
