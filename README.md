@@ -1,3 +1,3 @@
-# mathildecol.github.io
+# niclasknecht.github.io
 
-Personal website for Mathilde Col
+Personal website for Niclas Knecht.
