@@ -1,7 +1,7 @@
 ---
 title: Eliciting Authentic Preferences through Collective Deliberation
 date: 2023-12-06
-url: /authentic_preferences/
+url: /research/authentic_preferences/
 author: ["Olivier Bargain", "Marc Fleurbaey", "Niclas Knecht"]
 description: "" 
 summary: "Eliciting Authentic Preferences through Collective Deliberation"
