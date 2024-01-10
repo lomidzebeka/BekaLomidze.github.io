@@ -13,7 +13,7 @@ cover:
     alt: "Causality"
     relative: false
 disableAnchoredHeadings: false
-showToc: true
+showToc: false
 
 ---
 
