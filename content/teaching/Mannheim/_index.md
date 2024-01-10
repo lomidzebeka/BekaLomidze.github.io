@@ -1,4 +1,4 @@
 ---
 title: "University of Mannheim"
-description: 
+description:  "Past teaching experiences"
 ---
