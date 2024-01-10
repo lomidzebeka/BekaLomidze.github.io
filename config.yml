@@ -52,8 +52,8 @@ params:
           buttons:
             - name: Research
               url: /research/
-            #- name: Teaching
-            #  url: /teaching/
+            - name: Teaching
+              url: /teaching/
             - name: CV
               url: /cv/CV_NK_Autumn2023.pdf
     socialIcons:
