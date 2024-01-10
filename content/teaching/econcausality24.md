@@ -7,7 +7,7 @@ aliases:
 tags: ["keyword 1","keyword 2"]
 author: ["Tanguy Bernard", "Niclas Knecht"]
 description: "Econometrics of Causality" 
-summary: "This course will present the basics of the “treatment effect” literature which focuses on issues of causal relationships In tutorial classes, students will learn how to implement policy evaluations using data from recent economic policies."
+summary: "This course will present the basics of the “treatment effect” literature which focuses on issues of causal relationships. In tutorial classes, students will learn how to implement policy evaluations using data from recent economic policies."
 cover:
     image: "/course_figure.png"
     alt: "Figure from course"
