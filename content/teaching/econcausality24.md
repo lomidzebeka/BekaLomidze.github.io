@@ -17,9 +17,9 @@ showToc: true
 
 ---
 
-## Introduction
+## Content
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Using simple OLS specifications, the course will first cover issues of endogeneity arising from selection bias or reverse causality. The course will then cover the basics of various evaluation designs addressing endogeneity issues, namely randomized control trials, difference-in-difference, and regression discontinuity approaches. Lecture classes will cover the main concepts developed in this literature, and will present a set key research papers that rely on these approaches. During tutorial classes, students will be provided with data-based exercise, reproducing results from recent evaluations of public policies. Topic of tutorial class will include issues of development economics, international economics and finance (according to students’ main Master specialisation).
 
 ---
 
