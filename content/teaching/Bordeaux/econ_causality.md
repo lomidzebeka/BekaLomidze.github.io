@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Econometrics of Causality (SS24)" 
 date: 2024-01-10
-url: /teaching/
+url: /teaching/econ_causality/
 aliases:
     - /old_url.html
 tags: ["causality","econometrics"]
