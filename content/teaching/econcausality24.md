@@ -7,7 +7,7 @@ aliases:
 tags: ["keyword 1","keyword 2"]
 author: ["Tanguy Bernard"]
 description: "Econometrics of Causality" 
-summary: "Course summary for list page (less than 265 characters)"
+summary: "This course will present the basics of the “treatment effect” literature which focuses on issues of causal relationships, as used in evaluation of public policies. This literature has received considerable attention since the early 2000’s, as highlighted by the NobelPrizes awarded in both 2019 and 2021. From the main lectures students will learn the basis ofthe treatment effect literature. In tutorial classes, students will learn how to implement policy evaluations using data from recent economic policies."
 cover:
     image: "/course_figure.png"
     alt: "Figure from course"
