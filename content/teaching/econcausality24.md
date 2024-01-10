@@ -1,11 +1,11 @@
 ---
 title: "TD Econometrics of Causality (SS24)" 
-date: 2024-01-10
+date: 2024-02-10
 url: /teaching/
 aliases:
     - /old_url.html
 tags: ["keyword 1","keyword 2"]
-author: ["Course Author 1", "Course Author 2"]
+author: ["Tanguy Bernard"]
 description: "Econometrics of Causality" 
 summary: "Course summary for list page (less than 265 characters)"
 cover:
