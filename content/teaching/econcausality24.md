@@ -29,17 +29,17 @@ What is this tutorial about?
 
 ##### Problem set
 
-- [Tutorial1](/PS_tutorial1.pdf)
+- [PS Tutorial1](/PS_tutorial1.pdf)
 
 
 ##### Stata files
 
-- [Tutorial1](/Stata_tutorial1.do)
+- [Stata Tutorial1](/Stata_tutorial1.do)
 
 
 ##### Handwritten notes
 
-- [Tutorial1](/Hw_tutorial1.pdf)
+- [Notes Tutorial1](/Hw_tutorial1.pdf)
 
 
 ---
