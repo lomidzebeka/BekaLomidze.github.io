@@ -42,5 +42,3 @@ What is this tutorial about?
 - [Notes Tutorial 1](/Hw_tutorial1.pdf)
 
 
----
-
