@@ -1,4 +1,4 @@
 ---
-title: "Teaching at the University of Mannheim"
+title: "University of Mannheim"
 description: 
 ---
