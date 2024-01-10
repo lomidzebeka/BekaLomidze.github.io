@@ -1,7 +1,7 @@
 ---
 title: "Tutorial Econometrics of Causality (SS24)" 
 date: 2024-01-10
-author: ["Universite de Bordeaux"]
+location: ["Universite de Bordeaux"]
 url: /teaching/econ_causality_2024
 aliases:
     - /old_url.html
