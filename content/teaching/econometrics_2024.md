@@ -27,11 +27,11 @@ The course will provide students with a more advanced look into the methods of E
 
 ##### Presentation
 
-- [Introduction](/econometrics_2024_presentation_introduction.pdf)
+- [Introduction](/teaching/econometrics_2024_presentation_introduction.pdf)
 
 ##### Data files
 
-- [Introduction data](/data/econometrics_2024/auto.dta)
+- [Introduction data](/teaching/econometrics_2024_auto.dta)
 
 
 ## Tutorial 1
@@ -40,12 +40,12 @@ OLS. Expected Value. Heteroskedasticity.
 
 ##### Problem set
 
-- [Problem Set 1](/econometrics_2024_ps1.pdf)
+- [Problem Set 1](/teaching/econometrics_2024_ps1.pdf)
 
 
 ##### Data files
 
-- [Data Problem Set 1](/econometrics_2024_td1_data.zip)
+- [Data Problem Set 1](/teaching/econometrics_2024_td1_data.zip)
 
 
 
@@ -55,12 +55,12 @@ OLS. Proxy variables. Heteroskedasticity. Non-linear functions.
 
 ##### Problem set
 
-- [Problem Set 2](/econometrics_2024_ps2.pdf)
+- [Problem Set 2](/teaching/econometrics_2024_ps2.pdf)
 
 
 ##### Data files
 
-- [Data Problem Set 2](/econometrics_2024_td2_data.zip)
+- [Data Problem Set 2](/teaching/econometrics_2024_td2_data.zip)
 
 
 ## Tutorial 3
@@ -69,12 +69,12 @@ OLS. Predicted Values. Interactions. Dummy variables.
 
 ##### Problem set
 
-- [Problem Set 3](/econometrics_2024_ps3.pdf)
+- [Problem Set 3](/teaching/econometrics_2024_ps3.pdf)
 
 
 ##### Data files
 
-- [Data Problem Set 3](/econometrics_2024_td3_data.zip)
+- [Data Problem Set 3](/teaching/econometrics_2024_td3_data.zip)
 
 
 ## Tutorial 4
@@ -83,11 +83,11 @@ OLS. LPM. Logit / Probit. Panel data.
 
 ##### Problem set
 
-- [Problem Set 4](/econometrics_2024_ps4.pdf)
+- [Problem Set 4](/teaching/econometrics_2024_ps4.pdf)
 
 
 ##### Data files
 
-- [Data Problem Set 4](/econometrics_2024_td4_data.zip)
+- [Data Problem Set 4](/teaching/econometrics_2024_td4_data.zip)
 
 
