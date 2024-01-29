@@ -7,7 +7,7 @@ aliases:
     - /old_url.html
 tags: ["stata","econometrics"]
 author: ["Valerio Sterzi", "Niclas Knecht"]
-description: "Econometrics " 
+description: "Econometrics" 
 summary: ""
 cover:
     image: "/course_figure.png"
