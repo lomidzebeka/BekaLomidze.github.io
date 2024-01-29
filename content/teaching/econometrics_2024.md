@@ -27,7 +27,7 @@ showToc: false
 
 ##### Presentation
 
-- [Introduction](/other/econometrics_2024/presentation_introduction.pdf)
+- [Introduction](/econometrics_2024_presentation_introduction.pdf)
 
 ##### Data files
 
@@ -40,12 +40,12 @@ OLS. Expected Value. Heteroskedasticity.
 
 ##### Problem set
 
-- [Problem Set 1](/problem_sets/econometrics_2024/ps1.pdf)
+- [Problem Set 1](/econometrics_2024_ps1.pdf)
 
 
 ##### Data files
 
-- [Data Problem Set1 1](/data/econometrics_2024/td1_data.zip)
+- [Data Problem Set 1](/econometrics_2024_td1_data.zip)
 
 
 
@@ -55,11 +55,11 @@ OLS. Proxy variables. Heteroskedasticity. Non-linear functions.
 
 ##### Problem set
 
-- [Problem Set 2](/problem_sets/econometrics_2024/ps2.pdf)
+- [Problem Set 2](/econometrics_2024_ps2.pdf)
 
 
 ##### Data files
 
-- [Data Problem Set1 2](/data/econometrics_2024/td2_data.zip)
+- [Data Problem Set1 2](/econometrics_2024_td2_data.zip)
 
 
