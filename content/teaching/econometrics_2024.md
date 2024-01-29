@@ -60,6 +60,34 @@ OLS. Proxy variables. Heteroskedasticity. Non-linear functions.
 
 ##### Data files
 
-- [Data Problem Set1 2](/econometrics_2024_td2_data.zip)
+- [Data Problem Set 2](/econometrics_2024_td2_data.zip)
+
+
+## Tutorial 3
+
+OLS. Predicted Values. Interactions. Dummy variables.
+
+##### Problem set
+
+- [Problem Set 3](/econometrics_2024_ps3.pdf)
+
+
+##### Data files
+
+- [Data Problem Set 3](/econometrics_2024_td3_data.zip)
+
+
+## Tutorial 4
+
+OLS. LPM. Logit / Probit. Panel data.
+
+##### Problem set
+
+- [Problem Set 4](/econometrics_2024_ps4.pdf)
+
+
+##### Data files
+
+- [Data Problem Set 4](/econometrics_2024_td4_data.zip)
 
 
