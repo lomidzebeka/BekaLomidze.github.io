@@ -8,7 +8,7 @@ aliases:
 tags: ["stata","econometrics"]
 author: ["Valerio Sterzi", "Niclas Knecht"]
 description: "Econometrics" 
-summary: ""
+summary: "This course will present underpinnings and problems of Ordinary Least Squares (OLS) regressions. In  tutorials, students will work on both theoretical and practical problems."
 cover:
     image: "/course_figure.png"
     alt: "Econometrics"
@@ -20,7 +20,7 @@ showToc: false
 
 ## Content
 
-'Description'
+The course will provide students with a more advanced look into the methods of Econometrics. Here, it will look at regular OLS, its problems, and potential remedies. In particular, the Gauss-Markov Theorem, the omitted variable bias (OVB), misspecified models, the issue of heteroskedasticity, and the linear probability model (LPM) will be discussed. In these tutorials students will work on both theoretical problems, that are close to the course material by Valerio Sterzi, as well as practical problems, using the statistical software for data 'Stata'. 
 ---
 
 ## Introduction
