@@ -35,7 +35,7 @@ The course will provide students with a more advanced look into the methods of E
 - [Introduction data](/teaching/econometrics_2024_auto.dta)
 
 
-## Tutorial 1
+## Tutorial 1 (due 15.02.2024)
 
 OLS. Expected Value. Heteroskedasticity. 
 
@@ -50,7 +50,7 @@ OLS. Expected Value. Heteroskedasticity.
 
 
 
-## Tutorial 2
+## Tutorial 2 (due 07.03.2024)
 
 OLS. Proxy variables. Heteroskedasticity. Non-linear functions.
 
@@ -64,7 +64,7 @@ OLS. Proxy variables. Heteroskedasticity. Non-linear functions.
 - [Data Problem Set 2](/teaching/econometrics_2024_td2_data.zip)
 
 
-## Tutorial 3
+## Tutorial 3 (21.03.2024)
 
 OLS. Predicted Values. Interactions. Dummy variables.
 
@@ -78,7 +78,7 @@ OLS. Predicted Values. Interactions. Dummy variables.
 - [Data Problem Set 3](/teaching/econometrics_2024_td3_data.zip)
 
 
-## Tutorial 4
+## Tutorial 4 (due 04.04.2024)
 
 OLS. LPM. Logit / Probit. Panel data.
 
