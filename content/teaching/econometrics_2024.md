@@ -35,7 +35,7 @@ The course will provide students with a more advanced look into the methods of E
 - [Introduction data](/teaching/econometrics_2024_auto.dta)
 
 
-## Tutorial 1 (due 15.02.2024)
+## Tutorial 1 (due 15.02.2024, 11h30)
 
 OLS. Expected Value. Heteroskedasticity. 
 
