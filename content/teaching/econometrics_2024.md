@@ -49,7 +49,7 @@ OLS. Expected Value. Heteroskedasticity.
 - [Data Problem Set 1](/teaching/econometrics_2024_td1_data.zip)
 
 
-
+<!---
 ## Tutorial 2 (due 07.03.2024)
 
 OLS. Proxy variables. Heteroskedasticity. Non-linear functions.
@@ -90,5 +90,5 @@ OLS. LPM. Logit / Probit. Panel data.
 ##### Data files
 
 - [Data Problem Set 4](/teaching/econometrics_2024_td4_data.zip)
-
+-->
 
