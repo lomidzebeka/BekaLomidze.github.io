@@ -26,7 +26,7 @@ The course will provide students with a more advanced look into the methods of E
 
 ## Introduction
 
-##### Presentation
+##### Slides
 
 - [Introduction](/teaching/econometrics_2024_presentation_introduction.pdf)
 
