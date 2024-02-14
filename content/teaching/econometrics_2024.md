@@ -46,7 +46,7 @@ OLS. Expected Value. Heteroskedasticity.
 
 - [Problem Set 1](/teaching/econometrics_2024_ps1.pdf)
 
-I have been made aware of a small error in question 3, where the denominator is missing a square, I have uploaded a corrected version. I apologise for the inconvenience caused.
+I have been made aware of a small error in question 3, where the denominator is missing a square. I have uploaded a corrected version. I apologise for the inconvenience caused.
 
 - [Problem Set 1 (corrected)](/teaching/econometrics_2024_ps1_corrected.pdf)
 
