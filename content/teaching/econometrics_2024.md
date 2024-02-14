@@ -39,6 +39,9 @@ The course will provide students with a more advanced look into the methods of E
 
 OLS. Expected Value. Heteroskedasticity. 
 
+[Here](https://www.stat.auckland.ac.nz/~fewster/325/notes/ch3.pdf) you can find information on expected values and the rules governing them.
+
+
 ##### Problem set
 
 - [Problem Set 1](/teaching/econometrics_2024_ps1.pdf)
@@ -47,7 +50,6 @@ I have been made aware of a small error in question 3, where the denominator is 
 
 - [Problem Set 1 (corrected)](/teaching/econometrics_2024_ps1_corrected.pdf)
 
-[Here](https://www.stat.auckland.ac.nz/~fewster/325/notes/ch3.pdf) you can find information on expected values and the rules governing them.
 
 ##### Data files
 
