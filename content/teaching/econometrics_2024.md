@@ -56,7 +56,7 @@ I have been made aware of a small error in question 3, where the denominator is 
 - [Data Problem Set 1](/teaching/econometrics_2024_td1_data.zip)
 
 
-<!---
+
 ## Tutorial 2 (due 07.03.2024)
 
 OLS. Proxy variables. Heteroskedasticity. Non-linear functions.
@@ -70,7 +70,7 @@ OLS. Proxy variables. Heteroskedasticity. Non-linear functions.
 
 - [Data Problem Set 2](/teaching/econometrics_2024_td2_data.zip)
 
-
+<!---
 ## Tutorial 3 (due 21.03.2024)
 
 OLS. Predicted Values. Interactions. Dummy variables.
