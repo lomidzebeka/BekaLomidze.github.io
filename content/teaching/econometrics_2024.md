@@ -90,6 +90,8 @@ OLS. Predicted Values. Interactions. Dummy variables.
 
 OLS. LPM. Logit / Probit. Panel data.
 
+[Here](https://clas.ucdenver.edu/marcelo-perraillon/sites/default/files/attached-files/perraillon_marginal_effects_lecture_lisbon.pdf) you can learn more about interpreting marginal effects.
+
 ##### Problem set
 
 - [Problem Set 4](/teaching/econometrics_2024_ps4.pdf)
