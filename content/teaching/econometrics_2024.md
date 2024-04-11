@@ -102,3 +102,13 @@ OLS. LPM. Logit / Probit. Panel data.
 - [Data Problem Set 4](/teaching/econometrics_2024_td4_data.zip)
 
 
+## Exam (11.04.2024, 10h50 - 12h15)
+
+##### Exam
+
+- [Exam](/teaching/econometrics_2024_exam.pdf)
+
+
+##### Data files
+
+- [Data Exam](/teaching/econometrics_2024_exam_data.zip)
