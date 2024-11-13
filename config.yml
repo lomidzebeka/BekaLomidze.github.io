@@ -19,7 +19,7 @@ taxonomies:
 #          weight: 2
 
 params:
-    description: "I am a PhD student at the Bordeaux School of Economics under the supervision of Olivier Bargain. My research interests is the intersection of economics and psychology."
+    description: "I am a PhD student at the Bordeaux School of Economics under the supervision of Olivier Bargain. My research interest is the intersection of economics and psychology."
     author: Niclas Knecht
     #googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
@@ -44,7 +44,7 @@ params:
     profileMode:
           enabled: true
           title : Niclas Knecht
-          subtitle: "I am a PhD student at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) under the supervision of [Olivier Bargain](https://sites.google.com/site/bargainoliv/). My research interests is the intersection of economics and psychology."
+          subtitle: "I am a PhD student at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) under the supervision of [Olivier Bargain](https://sites.google.com/site/bargainoliv/). My research interest is the intersection of economics and psychology."
           imageUrl: "/picture.jpg"
           imageWidth: 200
           imageHeight: 200
