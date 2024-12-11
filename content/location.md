@@ -15,7 +15,7 @@ description: "My office addresses at the University of Bordeaux"
 
 BSE  UMR CNRS 6060  
 Université de Bordeaux  
-Avenue Léon Duguit, Building H2, Office 207   
+Avenue Léon Duguit, Building H2, Office 206   
 33608 PESSAC CEDEX  
 FRANCE
 
