@@ -76,7 +76,7 @@ params:
     label:
       text: "Beka Lomidze"
       #Put your icon below, it's in content
-      icon: /Malevich.ico
+      icon: /favicon.ico
       iconHeight: 18
 
 markup:
