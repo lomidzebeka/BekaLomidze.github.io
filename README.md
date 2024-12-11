@@ -1,3 +1,3 @@
-# Source Code and Assets of niclasknecht.github.io
+# Source Code and Assets of bekalomidze.github.io
 
-This repository contains the source code and assets of https://niclasknecht.github.io.
+This repository contains the source code and assets of https://bekalomidze.github.io.
