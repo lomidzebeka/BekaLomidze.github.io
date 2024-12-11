@@ -56,7 +56,7 @@ params:
               url: /teaching/
             - name: CV
             #Put your CV below, it's in content
-              url: /cv/BekaLOMIDZE_CV-1-1.pdf.pdf
+              url: /cv/BekaLOMIDZE_CV-1-1.pdf
     socialIcons:
         - name: Email
           url: mailto:beka.lomidze@u-bordeaux.fr
