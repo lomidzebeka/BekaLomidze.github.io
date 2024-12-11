@@ -1,5 +1,5 @@
-baseURL: "https://niclasknecht.github.io"
-title: Niclas Knecht
+baseURL: "https://bekalomidze.github.io"
+title: Béka Lomidze
 paginate: 20
 theme: PaperMod
 
@@ -19,8 +19,8 @@ taxonomies:
 #          weight: 2
 
 params:
-    description: "I am a PhD student at the Bordeaux School of Economics under the supervision of Olivier Bargain. My research interest is the intersection of economics and psychology."
-    author: Niclas Knecht
+    description: "I am a PhD student at the Bordeaux School of Economics under the supervision of Olivier Bargain & Jérôme Wittwer. I'm interested in social preferences, distributive justice and equity in health."
+    author: Béka Lomidze
     #googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: dark
@@ -43,24 +43,25 @@ params:
     math: true
     profileMode:
           enabled: true
-          title : Niclas Knecht
-          subtitle: "I am a PhD student at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) under the supervision of [Olivier Bargain](https://sites.google.com/site/bargainoliv/). My research interest is the intersection of economics and psychology."
+          title : Béka Lomidze
+          subtitle: "I am a PhD student at the [Bordeaux School of Economics](https://www.bse.u-bordeaux.fr/) under the supervision of [Olivier Bargain](https://sites.google.com/site/bargainoliv/) and [Jérôme Wittwer](https://smart-fhu.u-bordeaux.fr/Partenaires/Investigateurs-Partenaires/Pr-Jerome-Wittwer-i6651.html). I'm interested in social preferences, distributive justice and equity in health."
           imageUrl: "/picture.jpg"
           imageWidth: 200
           imageHeight: 200
-          imageTitle: Niclas Knecht
+          imageTitle: Béka Lomidze
           buttons:
             - name: Research
               url: /research/
             - name: Teaching
               url: /teaching/
             - name: CV
-              url: /cv/CV_NK_Autumn2024.pdf
+            #Put your CV below, it's in content
+              url: /cv/[put your cv here].pdf
     socialIcons:
         - name: Email
-          url: mailto:niclas.knecht@u-bordeaux.fr
+          url: mailto:beka.lomidze@u-bordeaux.fr
         - name: LinkedIn
-          url: https://www.linkedin.com/in/niclas-knecht/
+          url: https://fr.linkedin.com/in/beka-lomidze
         #- name: GitHub
         #  url: https://github.com/colmate
         - name: Location
@@ -73,7 +74,8 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Niclas Knecht"
+      text: "Beka Lomidze"
+      #Put your icon below, it's in content
       icon: /favicon.ico
       iconHeight: 18
 
