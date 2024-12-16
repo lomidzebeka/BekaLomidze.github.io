@@ -16,4 +16,3 @@ cover:
 - We randomize the cause of the cost inequality to see the shift in preferences in different contexts.
 - This allows us to see to what extent respondents choose to compensate and therefore with which normative principles they align.
 - But also where they put the cutpoint between legitimate and illegitimate inequality as developed in the EOp literature.
-
