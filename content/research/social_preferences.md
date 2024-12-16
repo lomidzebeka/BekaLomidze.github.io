@@ -1,14 +1,14 @@
-    ---
-    title: Social Preferences in healthcare financing: Evidence from the SOPHEA survey
-    date: 2023-12-01
-    url: /research/social_preferences/
-    author: ["Béka Lomidze", "Florence Jusot", "Jérôme Wittwer", "Clémence Thébaut"]
-    description: "" 
-    summary: "Studying the french population preferences for compensation through healthcare in different contexts"
-    cover:
-        alt: "Adherence to horizontal and vertical equity in healthcare financing"
-        relative: false
-    ---
+---
+title: Social Preferences in healthcare financing: Evidence from the SOPHEA survey
+date: 2023-12-01
+url: /research/social_preferences/
+author: ["Béka Lomidze", "Florence Jusot", "Jérôme Wittwer", "Clémence Thébaut"]
+description: "" 
+summary: "Studying the french population preferences for compensation through healthcare in different contexts"
+cover:
+    alt: "Adherence to horizontal and vertical equity in healthcare financing"
+    relative: false
+---
     
     *Preliminary draft not yet available*
     
