@@ -9,8 +9,8 @@ cover:
     alt: "Adherence to horizontal and vertical equity in healthcare financing"
     relative: false
 ---
-    
-    *Preliminary draft not yet available*
+
+*Preliminary draft not yet available*
     
     - Experimental study on the social preferences of the general public for compensation in different contexts.
     - We randomize the cause of the cost inequality to see the shift in preferences in different contexts.
