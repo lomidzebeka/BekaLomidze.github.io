@@ -1,4 +1,5 @@
 ---
+
 title: Social Preferences in healthcare financing: Evidence from the SOPHEA survey
 date: 2023-12-01
 url: /research/social_preferences/
