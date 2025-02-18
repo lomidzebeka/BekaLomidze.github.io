@@ -1,7 +1,7 @@
 --- 
 title: Framing effect, responsability beliefs and health inequality aversion
 date: 2023-12-01
-url: /research/social_preferences/
+url: /research/framing_effect/
 author: ["Béka Lomidze", "Florence Jusot", "Jérôme Wittwer"]
 description: "" 
 summary: "Using the framing effect of health inequality to study health inequality aversion"
